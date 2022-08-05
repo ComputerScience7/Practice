@@ -1,5 +1,5 @@
 import Homepage as Homepage
-import Deployment.Data_Visualization as Data_Visualization
+import Data_Visualization as Data_Visualization
 import Analysis
 import streamlit as st
 
