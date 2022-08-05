@@ -21,7 +21,7 @@ def app ():
 
 
     st.header ('Ads Distributions and Impressions')
-    st.image ('Piecharts.png')
+    st.image ('piecharts.png')
     st.write('From the Pie Chart it can be concluded that the distribution of ads in USA is quite equal around 14 %')
     st.write('From the Graph chart it can be inferred that only 51 ads have the most impression to audience which approximately around 800000-900000 While most of the ads 74083 show very unsignificant impression to audience which approximately around 0-1000')
 
